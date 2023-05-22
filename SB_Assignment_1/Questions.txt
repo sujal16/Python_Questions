@@ -1,0 +1,22 @@
+Assignment 1
+
+1. Assign your Name to variable name and Age to variable age. Make a Python program that prints your name and age.
+
+2. X= "Datascience is used to extract meaningful insights."
+Split the string
+
+3. Make a function that gives multiplication of two numbers
+
+4. Create a Dictionary of 5 States with their capitals. also print the keys and values.
+
+5. Create a list of 1000 numbers using range function.
+
+6. Create an identity matrix of dimension 4 by 4
+
+7. Create a 3x3 matrix with values ranging from 1 to 9
+
+8. Create 2 similar dimensional array and perform sum on them.
+
+9. Generate the series of dates from 1st Feb, 2023 to 1st March, 2023 (both inclusive)
+
+10. Given a dictionary, convert it into corresponding dataframe and display it dictionary = ('Brand': ['Maruti', 'Renault', 'Hyndai'], 'Sales': (250, 200, 24013
